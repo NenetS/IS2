@@ -1,0 +1,14 @@
+C:\Users\logan\source\repos\SystemMonitoring2\bin\Debug\net8.0\SystemMonitoring2.exe
+C:\Users\logan\source\repos\SystemMonitoring2\bin\Debug\net8.0\SystemMonitoring2.deps.json
+C:\Users\logan\source\repos\SystemMonitoring2\bin\Debug\net8.0\SystemMonitoring2.runtimeconfig.json
+C:\Users\logan\source\repos\SystemMonitoring2\bin\Debug\net8.0\SystemMonitoring2.dll
+C:\Users\logan\source\repos\SystemMonitoring2\bin\Debug\net8.0\SystemMonitoring2.pdb
+C:\Users\logan\source\repos\SystemMonitoring2\obj\Debug\net8.0\SystemMonitoring2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\source\repos\SystemMonitoring2\obj\Debug\net8.0\SystemMonitoring2.AssemblyInfoInputs.cache
+C:\Users\logan\source\repos\SystemMonitoring2\obj\Debug\net8.0\SystemMonitoring2.AssemblyInfo.cs
+C:\Users\logan\source\repos\SystemMonitoring2\obj\Debug\net8.0\SystemMonitoring2.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\SystemMonitoring2\obj\Debug\net8.0\SystemMonitoring2.dll
+C:\Users\logan\source\repos\SystemMonitoring2\obj\Debug\net8.0\refint\SystemMonitoring2.dll
+C:\Users\logan\source\repos\SystemMonitoring2\obj\Debug\net8.0\SystemMonitoring2.pdb
+C:\Users\logan\source\repos\SystemMonitoring2\obj\Debug\net8.0\SystemMonitoring2.genruntimeconfig.cache
+C:\Users\logan\source\repos\SystemMonitoring2\obj\Debug\net8.0\ref\SystemMonitoring2.dll
